@@ -1,0 +1,14 @@
+body {
+	background-image: url(https://www.hdwallpapers.in/walls/the_legend_of_zelda_ocarina_of_time-wide.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#special {
+	color: blue;
+	background: orange;
+}
+
+.completed {
+	text-decoration: underline blue;
+}

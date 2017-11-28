@@ -1,0 +1,18 @@
+h1 {
+	color: #FF7707;
+
+	border: 2px solid orange;
+}
+
+
+
+h4 {
+	color: rgb(255,50,150);
+}
+
+body {
+
+	background: url(https://images4.alphacoders.com/640/640956.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
